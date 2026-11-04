@@ -1,6 +1,7 @@
 # HIT11
 ## Infos
-Alle Dateien aus dem Unterricht sind hier zu finden. Das heißt, wenn Du eine Woche gefehlt hast, liegt es an Dir, dies hier mit den Dateien und Hilfe anderer nachzuarbeiten. Wer ist dafür verantwortlich? Ich? Nein, DU. Ganz allein! 
+Alle Dateien aus dem Unterricht sind hier zu finden. Das heißt, wenn Du eine Woche gefehlt hast, liegt es an Dir, dies hier mit den Dateien und Hilfe Anderer nachzuarbeiten.
+
 ## Inhaltsverzeichnis
 04.11.2026 - 11-01-turtle.py und Python_Turtle_cheat_sheets.pdf
 
@@ -10,4 +11,5 @@ Alle Dateien aus dem Unterricht sind hier zu finden. Das heißt, wenn Du eine Wo
 Wichtig: Bitte runterscrollen und die korrekte Version auswählen, nicht den Install Manager
 3. Installation: Wenn Du nicht auf die folgenden Schritte achtest bei beiden Installationen, wird alles failen!!!
 4. Python Installation:  "Add python.exe to PATH"
-5. VS Code Installation: 
+5. VS Code Installation: "Register Code as an editor for supported file types" & "Add to PATH"
+6. in VS Code: Addons -> Python installieren
