@@ -12,4 +12,4 @@ Wichtig: Bitte runterscrollen und die korrekte Version auswählen, nicht den Ins
 3. Installation: Wenn Du nicht auf die folgenden Schritte achtest bei beiden Installationen, wird alles failen!!!
 4. Python Installation:  "Add python.exe to PATH"
 5. VS Code Installation: "Register Code as an editor for supported file types" & "Add to PATH"
-6. in VS Code: Addons -> Python installieren
+6. in VS Code: Extensions -> Python installieren
