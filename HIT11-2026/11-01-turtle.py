@@ -10,15 +10,11 @@
 import turtle
 
 turtle.shape("turtle")
-counter = 0
-turtle.speed(0)
 
-# while counter <=9000:
-#     turtle.left(1)
-#     turtle.write("❤️")
-#     turtle.forward(10)
-#     counter+=1
+for i in range(3):
+    #indentation = Einrückung
+    turtle.forward(2**8)
+    turtle.right(120)
 
-turtle.forward(1000)
 
 turtle.done()
