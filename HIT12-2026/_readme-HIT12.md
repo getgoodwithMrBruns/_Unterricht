@@ -11,6 +11,8 @@ Alle Dateien aus dem Unterricht sind hier zu finden. Das heißt, wenn Du eine Wo
     - nach 1 Jahr nicht mehr ok
 - Du hast keine Ahnung mehr, was das jupyter notebook so macht? Lies [das hier](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - Wo bekomme ich das Zeug her?
+- pip install jupyterlab (im Terminal / cmd)
+- in VS Code das Jupyter Addon nach erfolgreicher pip installation installieren
     - Code ab sofort immer auf: [githubgitgud](https://tinyurl.com/gitbruns)
 ## Infos
 - KI Addons sind nicht verboten
