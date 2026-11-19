@@ -14,3 +14,10 @@ hast, liegt es an Dir, dies hier mit den Dateien und Hilfe anderer nachzuarbeite
     - nach 2 Jahren nicht mehr ok
 - Wo bekomme ich das Zeug her?
     - Code ab sofort immer auf: [githubgitgud](https://tinyurl.com/gitbruns)
+## Quellen
+- Checkt fürs Selbstlernen folgende Videos und Quellen, 10 min. am Tag reichen!!!
+    - [Tech with Tim - Pandas in 30 min.](https://youtu.be/EXIgjIBu4EU?si=Jxw7_NQLGHC3X3nf)
+    - [Regex in Python](https://www.youtube.com/watch?v=nxjwB8up2gI)
+    - [W3 Schools Pandas](https://www.w3schools.com/python/pandas/)
+    - [Learn Code Fast](https://www.learncodefast.org/courses/pandas)
+    - [Kaggle Python Pandas](https://www.kaggle.com/learn/pandas)
