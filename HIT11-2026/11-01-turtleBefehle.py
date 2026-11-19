@@ -11,7 +11,6 @@ turtle.penup()
 turtle.pendown()
 turtle.speed()
 
-
 turtle.done()
 
 # Aufgaben 18.11.2026:
